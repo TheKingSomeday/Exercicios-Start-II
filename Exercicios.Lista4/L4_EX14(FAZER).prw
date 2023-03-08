@@ -1,0 +1,8 @@
+#INCLUDE 'TOTVS.CH'
+#INCLUDE 'TBICONN.CH'
+#INCLUDE 'TOPCONN.CH'
+
+User Function l4_EX13()
+
+
+Return
